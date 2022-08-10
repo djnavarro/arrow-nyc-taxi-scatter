@@ -4,4 +4,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="./output/full-taxi-scatter.png" width="100%">
+<img src="./output/taxi-scatter.png" width="100%">
